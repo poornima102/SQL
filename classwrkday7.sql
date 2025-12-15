@@ -1,4 +1,4 @@
-INSERT INTO students (id, name, course, score, email, phone, city, bonus_points) VALUES
+INSERT INTO students (id, name, course, score, email, phone, city, bonus_points) VALUES    
 (1, 'Asha', 'Python', 85, 'asha@mail.com', '9876543210', 'Chennai', 5),
 (2, 'Ravi', 'Python', 90, 'ravi@mail.com', '9876543211', 'Chennai', NULL),
 (3, 'Sneha', 'Java', 78, 'sneha@mail.com', '9876543212', 'Mumbai', NULL),
